@@ -32,8 +32,8 @@ function Home() {
     setTweet(encodeURI(fullTweet));
   };
 
-  const hashtags = `EndSARSNow,EndSARS,EndSARSProtests`;
-  const whatsappTags = `%23EndSARS %23EndSARSNow %23EndSARSProtests %23EndSARSBrutality`
+  const hashtags = `SARSMUSTEND,EndSARSNow,EndSARS,EndSARSProtests`;
+  const whatsappTags = `%23SARSMUSTEND %23EndSARSNow %23EndSARSProtests %23EndSARSBrutality`
 
   return (
     <React.Fragment>
@@ -72,8 +72,7 @@ function Home() {
               <h4>Remind Politicians</h4>
             </Link>
 
-            <Link
-              to='#'
+            <p
               className={styles.infoBox}
             >
               <div className={styles.iconGroup}>
@@ -103,7 +102,7 @@ function Home() {
               </div>
 
               <h4>Broadcast</h4>
-            </Link>
+            </p>
           </div>
         </section>
 
@@ -159,11 +158,11 @@ function Home() {
             <img className={styles.ad} src='assets/img/ad.jpg' alt='' />
           </section> */}
 
-          <section>
+          <section className={styles.contributors}>
             <h2>
               <i className='fas fa-laptop-code'></i> Contributors
             </h2>
-            <ul>
+            <ul className={styles.twoColumn}>
               <li>
                 <a
                   href='https://twitter.com/kadetXx'
@@ -261,6 +260,16 @@ function Home() {
                   rel='noreferrer noopener'
                 >
                   @Mercester_
+                </a>
+              </li>
+
+              <li>
+                <a
+                  href='https://twitter.com/a_dayomoshood'
+                  target='_blank'
+                  rel='noreferrer noopener'
+                >
+                  @a_dayomoshood
                 </a>
               </li>
             </ul>
