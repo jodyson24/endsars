@@ -776,7 +776,7 @@ export default [
     "phoneNo": "08033019132",
     "email": "mhrjj2015@gmail.com"
   },
-   {
+  {
     "id": "109",
     "name": "Hon. A. Olododo",
     "state": "Kwara",
@@ -811,152 +811,235 @@ export default [
     "phoneNo": "08036442043",
     "email": "katunabdullahi@gmail.com"
   },
-   {
+  {
     "id": "114",
     "name": "Hon.  A. Usman",
     "state": "Niger",
     "phoneNo": "08082046021",
     "email": "abunana14@gmail.com"
   },
-   {
+  {
     "id": "115",
     "name": "Hon. A. Salami",
     "state": "Sokoto",
     "phoneNo": "08036067910",
     "email": "drabdullahi621@gmail.com"
   },
-   {
+  {
     "id": "116",
     "name": "Hon. A. Mahmud",
     "state": "Niger",
     "phoneNo": "08038181888",
     "email": "abdullahigaya@yahoo.com"
   },
-   {
+  {
     "id": "117",
     "name": "Hon. A. Idris Garba",
     "state": "Niger",
     "phoneNo": "07067777044",
     "email": "abdul_i@gmail.com"
   },
-   {
+  {
     "id": "118",
     "name": "Hon. A. Ken Ken",
     "state": "Kano",
     "phoneNo": "08033265478",
     "email": "lawanabdullahikenken@gmail.com"
   },
-   {
+  {
     "id": "119",
     "name": "Hon. A. Abdulkadir",
     "state": "Bauchi",
     "phoneNo": "08088444050",
     "email": "baba.iyalai@gmail.com"
   },
-   {
+  {
     "id": "120",
     "name": "Hon. A. Mohammed",
     "state": "Nassarawa",
     "phoneNo": "08069662637",
     "email": "arimuhammad7bk@gmail.com"
   },
-   {
+  {
     "id": "121",
     "name": "Hon. A. Olawuyi",
     "state": "Kwara",
     "phoneNo": "08181007936",
     "email": "tunjitokyo@gmail.com"
   },
-   {
+  {
     "id": "122",
     "name": "Hon. A. Modibbo",
     "state": "Adamawa",
     "phoneNo": "08104222222",
     "email": "abdulraufmodibbo@gmail.com"
   },
-   {
+  {
     "id": "123",
     "name": "Hon. A. Namdas",
     "state": "Adamawa",
     "phoneNo": "07034724818",
     "email": "namdasrasak2011@gmail.com"
   },
-   {
+  {
     "id": "124",
     "name": "Hon. A. Mubarak",
     "state": "Taraba",
     "phoneNo": "08038297492",
     "email": "mubarak3829@gmail.com"
   },
-   {
+  {
     "id": "125",
     "name": "Hon. A. Faleke",
     "state": "Lagos",
     "phoneNo": "08033069103",
     "email": "jamesfaleke.jf@gmail.com"
   },
-   {
+  {
     "id": "126",
     "name": "Hon. A. Makinde",
     "state": "Ondo",
     "phoneNo": "08166189531",
     "email": "pmakinde@gmail.com"
   },
-   {
+  {
     "id": "127",
     "name": "Hon. A. Ahmad",
     "state": "Sokoto",
     "phoneNo": "08036179414",
     "email": "abuabdu75@gmail.com"
   },
-   {
+  {
     "id": "128",
     "name": "Hon. A. Fulata",
     "state": "Jigawa",
     "phoneNo": "08033120968",
     "email": "afulata28@gmail.com"
   },
-   {
+  {
     "id": "129",
     "name": "Hon. A. Nalaraba",
     "state": "Nassarawa",
     "phoneNo": "08113616344",
     "email": "nalarabsy2k2@gmail.com"
   },
-   {
+  {
     "id": "130",
     "name": "Hon. A. Abubakar",
     "state": "Kano",
     "phoneNo": "08135403288",
     "email": "abubakarkabir@gmail.com"
   },
-   {
+  {
     "id": "131",
     "name": "Hon. A. Abdullahi",
     "state": "Niger",
     "phoneNo": "08036314405",
     "email": "maiallah2015@yahoo.com"
   },
-   {
+  {
     "id": "132",
     "name": "Hon. A. Dahiru",
     "state": "Nassarawa",
     "phoneNo": "0862423728",
     "email": "abusarkid@gmail.com"
   },
-   {
+  {
     "id": "133",
     "name": "Hon. A. Umaru",
     "state": "Sokoto",
     "phoneNo": "08036029300",
     "email": "danbakari.au@gmail.com"
   },
-   {
+  {
     "id": "134",
     "name": "Hon. A. Kusada",
     "state": "Kastina",
     "phoneNo": "07030000618",
     "email": "garkuwa2015@gmail.com"
+  },
+  {
+    "id": "135",
+    "name": "HON. Z IBRAHIM",
+    "state": "Igabi Federal Constituency",
+    "phoneNo": " 08033116483",
+    "email": "zibrahimigabi2019@gmail.com"
+  },
+  {
+    "id": "136",
+    "name": "HON. Z A'U GALADIMA",
+    "state": "Bade/Jakusko Federal Constituency",
+    "phoneNo": " 08035652425",
+    "email": "honyaugaladima@gmail.com"
+  },
+  {
+    "id": "137",
+    "name": "HON. ZGIMBA",
+    "state": "Bama/Ngala/Kalabalge Federal Constituency",
+    "phoneNo": " 08033543553",
+    "email": "Zainabgimba360@gmail.com"
+  },
+  {
+    "id": "138",
+    "name": "HON. Z NYAMPA",
+    "state": "Michika/Madagali Federal Constituency",
+    "phoneNo": "  07037136644",
+    "email": "znyampa@yahoo.com"
+  },
+  {
+    "id": "139",
+    "name": "HON. Y BUBA YAKUB",
+    "state": "Hong/Gombi Federal Constituency",
+    "phoneNo": " 07015534074",
+    "email": " Yusufbubayakub@gmail.com"
+  },
+  {
+    "id": "140",
+    "name": "HON. Y BADAU",
+    "state": "Bagwai/Shanono Federal Constituency",
+    "phoneNo": " 08164713218",
+    "email": "badauyusufahmad@gmail.com"
+  },
+  {
+    "id": "141",
+    "name": "HON. Y MIGA",
+    "state": "Jahun/Miga Federal Constituency",
+    "email": "yusuf.miga@nass.gov.ng"
+  },
+  {
+    "id": "142",
+    "name": "HON. Y ABUBAKAR",
+    "state": "Yamaltu-Deba Federal Constituency",
+    "phoneNo": " 070307931",
+    "email": "asksysko@gmail.com"
+  },
+  {
+    "id": "143",
+    "name": "HON. Y KILA",
+    "state": "Gwaram Federal Constituency",
+    "phoneNo": " 08054499154",
+    "email": "yhkila@yahoo.com"
+  },
+  {
+    "id": "144",
+    "name": "HON. Y AMOBI",
+    "state": "Ayedire/Iwo/Ola-Oluwa Federal Constituency",
+    "phoneNo": " 08035702923",
+    "email": "amobiyinusa@yahoo.com"
+  },
+  {
+    "id": "145",
+    "name": "HON. Y ABDULLAHI",
+    "state": "Bauchi Federal Constituency",
+    "phoneNo": " 08096000556",
+    "email": " yakubushehu1@gmail.com"
+  },
+  {
+    "id": "146",
+    "name": "HON. Y DOGARA",
+    "state": "Bogoro/Dass/Tafawa Balewa Federal Constituency",
+    "phoneNo": " 08063914375",
+    "email": "turakih@gmail.com"
   }
-  
+
 ]
